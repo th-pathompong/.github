@@ -14,11 +14,11 @@ Our projects are designed for everyone: from complete beginners to seasoned crea
 
 ## 🚀 Active Projects
 
-### 🎵 [Jam Band](https://github.com/middnight/jam-band)
+### 🎵 [Collab](https://github.com/middnight/jam-band)
 
 **Real-time collaborative music creation platform**
 
-Jam Band transforms music creation into a social experience. Whether you're jamming live with friends across the globe or arranging detailed productions together, Jam Band makes collaborative music accessible to everyone.
+Collab transforms music creation into a social experience. Whether you're jamming live with friends across the globe or arranging detailed productions together, Collab makes collaborative music accessible to everyone.
 
 **Key Features:**
 - **🎸 Perform Mode** — Live jamming with real-time sync
